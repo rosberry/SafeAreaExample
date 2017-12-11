@@ -5,6 +5,12 @@
 
 This example project allows you to play with safe areas introduced in iOS 11. See related [article](https://medium.com/@evgenmikhaylov/ios-safe-area-ca10e919526f).
 
+---
+
+![](https://user-images.githubusercontent.com/18593176/33817642-b2eb97ec-de6a-11e7-8590-192b81ec0878.gif)![](https://user-images.githubusercontent.com/18593176/33818659-5806943e-de70-11e7-8892-204e31e2ebf4.gif)![](https://user-images.githubusercontent.com/18593176/33818247-05dac88a-de6e-11e7-973c-9f6a3980cf4e.gif)
+
+---
+
 ## Requirements
 
 - iOS 10.0+
